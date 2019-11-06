@@ -2,9 +2,9 @@
 
 
 
-· **Intitulé de la formation** : Initiation au code pour créer son propre site web
-· **Volume horaire** : 8h de cours + 15h de projets
-· **Enseignant** : Félix Gaudé pour le cours, vous-mêmes pour les projets
+* **Intitulé de la formation** : Initiation au code pour créer son propre site web
+* **Volume horaire** : 8h de cours + 15h de projets
+* **Enseignant** : Félix Gaudé pour le cours, vous-mêmes pour les projets
 
 
 ### **Description du cours**
