@@ -9,4 +9,4 @@ Vous allez travailler ensemble en petits groupes, et découvrir l’écran noir 
 Bastien Rousseau & Nah-Awa Koné
 
 ### Contexte
-Option tranversal : INITIATION À LA CRÉATION D'UN SITE WEB GRÂCE AU PEER-LEARNING
+_Option tranversale :_ INITIATION À LA CRÉATION D'UN SITE WEB GRÂCE AU PEER-LEARNING
