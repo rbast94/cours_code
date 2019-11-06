@@ -1,26 +1,26 @@
-SYLLABUS
+## SYLLABUS
 
 
 
 · **Intitulé de la formation** : Initiation au code pour créer son propre site web
-· Volume horaire : 8h de cours + 15h de projets
-· Enseignant : Félix Gaudé pour le cours, vous-mêmes pour les projets
+· **Volume horaire** : 8h de cours + 15h de projets
+· **Enseignant** : Félix Gaudé pour le cours, vous-mêmes pour les projets
 
 
-Description du cours
-Avec The Hacking Project, devenez un boucanier et découvrez les bases de l’informatique pour lancer votre site Internet !
+### **Description du cours**
+Avec The Hacking Project, devenez un boucanier et découvrez les bases de l’informatique pour lancer votre site Internet !  
 Vous allez travailler ensemble en petits groupes, et découvrir l’écran noir avec des projets concrets, l’apprentissage en communauté, et l’entraide entre élèves.
 
-Programme et calendrier du cours
+### **Programme et calendrier du cours**  
 Ce programme n’est pas définitif et peut être modifié en fonction des envies des élèves.
 
-Séance 1
-Date : 25/09
-Titre : Découverte de l’écran noir pour se sentir comme un hacker
-Résumé : Vous allez découvrir le terminal, ainsi que Git, un superbe outil pour travailler en équipe. Puis vous allez découvrir GitHub, l’un des sites les plus importants quand on est développeur
-Projet : Faire un projet à plusieurs et le mettre sur GitHub
+**Séance 1**  
+*  **Date** : 25/09
+*  **Titre** : Découverte de l’écran noir pour se sentir comme un hacker
+*  **Résumé** : Vous allez découvrir le terminal, ainsi que Git, un superbe outil pour travailler en équipe. Puis vous allez découvrir GitHub, l’un des sites les plus importants quand on est développeur
+*  **Projet** : Faire un projet à plusieurs et le mettre sur GitHub
 
-Séance 2
+**Séance 2**
 Date : 09/10
 Titre : HTML / CSS : Faire son premier site, et le mettre en ligne pour en faire profiter la terre
 Résumé : Vous allez apprendre les bases de HTML / CSS, puis vous saurez comment mettre un site en ligne
