@@ -44,20 +44,20 @@ Ce programme n’est pas définitif et peut être modifié en fonction des envie
 Le cours a pour but principal de faire découvrir le monde des sites webs et de l’informatique. 
 
 À la fin, les étudiants seront capables de : 
-	* Concevoir une page web avec HTML
-	* Lui mettre de la mise en page avec CSS
- 	* Insérer des animations avec JavaScript
-	* Le rendre adaptatif au mobile avec Bootstrap
-	* Manipuler l’écran noir du terminal
-	* Mettre son code en ligne et travailler à plusieurs sur un projet avec Github
-	* Mettre en ligne son site internet
-	* Découvrir le monde merveilleux du jargon de l’informatique
+ * Concevoir une page web avec HTML
+ * Lui mettre de la mise en page avec CSS
+ * Insérer des animations avec JavaScript
+ * Le rendre adaptatif au mobile avec Bootstrap
+ * Manipuler l’écran noir du terminal
+ * Mettre son code en ligne et travailler à plusieurs sur un projet avec Github
+ * Mettre en ligne son site internet
+ * Découvrir le monde merveilleux du jargon de l’informatique
 
 De plus, avec la pédagogie de l’éducation de pairs, les étudiants seront capables de :
-	* S’expliquer mutuellement des concepts compliqués
-	* Travailler en équipe sur les projets d’entreprise
-	* Rechercher la bonne information
-	* Assimiler rapidement des bases théoriques pour les appliquer dans des projets
+ * S’expliquer mutuellement des concepts compliqués
+ * Travailler en équipe sur les projets d’entreprise
+ * Rechercher la bonne information
+ * Assimiler rapidement des bases théoriques pour les appliquer dans des projets
 
 
 ### Exemple de projet
