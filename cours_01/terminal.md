@@ -22,7 +22,7 @@ En gros, c'est une version texte de l'explorateur de fichiers : on peut ouvrir d
 ### 3.1. Qu'est-ce que le terminal ?
 Le terminal est un outil intimidant aux premiers abords, mais pas si compliqué au final. J'ai réalisé une vidéo pour l'expliquer :
 
-Vidéo
+[![Alt text]()](https://www.youtube.com/watch?v=myz_6xrDwR4&feature=emb_logo)
 
 ### 3.2. Comment le lancer ?
 ### 3.2.1. Sur macOS
@@ -31,7 +31,7 @@ CMD + SPACE, puis écrire Terminal (ou iTerm), Enter.
 ### 3.2.2. Sur Linux
 CTRL + ALT + T.
 
-####🚀 ALERTE BONNE ASTUCE
+#### 🚀 ALERTE BONNE ASTUCE
 Si tu utilises Linux, passe ton terminal en anglais. Ça va vraiment t'aider lorsqu'il te renverra des erreurs. En effet, comme l'anglais est la langue d'internet, la majorité des gens ayant eu ton problème vont le poster en anglais. Tu auras ainsi 100 fois plus de résultats sur Google qu'avec une erreur postée en français.
 
 ### 3.2.3. Sur Windows
